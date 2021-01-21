@@ -1,0 +1,16 @@
+C:\Users\edu-f_000\TranferenciaBancaria\bin\Debug\net5.0\TranferenciaBancaria.exe
+C:\Users\edu-f_000\TranferenciaBancaria\bin\Debug\net5.0\TranferenciaBancaria.deps.json
+C:\Users\edu-f_000\TranferenciaBancaria\bin\Debug\net5.0\TranferenciaBancaria.runtimeconfig.json
+C:\Users\edu-f_000\TranferenciaBancaria\bin\Debug\net5.0\TranferenciaBancaria.runtimeconfig.dev.json
+C:\Users\edu-f_000\TranferenciaBancaria\bin\Debug\net5.0\TranferenciaBancaria.dll
+C:\Users\edu-f_000\TranferenciaBancaria\bin\Debug\net5.0\ref\TranferenciaBancaria.dll
+C:\Users\edu-f_000\TranferenciaBancaria\bin\Debug\net5.0\TranferenciaBancaria.pdb
+C:\Users\edu-f_000\TranferenciaBancaria\obj\Debug\net5.0\TranferenciaBancaria.csprojAssemblyReference.cache
+C:\Users\edu-f_000\TranferenciaBancaria\obj\Debug\net5.0\TranferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu-f_000\TranferenciaBancaria\obj\Debug\net5.0\TranferenciaBancaria.AssemblyInfoInputs.cache
+C:\Users\edu-f_000\TranferenciaBancaria\obj\Debug\net5.0\TranferenciaBancaria.AssemblyInfo.cs
+C:\Users\edu-f_000\TranferenciaBancaria\obj\Debug\net5.0\TranferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\edu-f_000\TranferenciaBancaria\obj\Debug\net5.0\TranferenciaBancaria.dll
+C:\Users\edu-f_000\TranferenciaBancaria\obj\Debug\net5.0\ref\TranferenciaBancaria.dll
+C:\Users\edu-f_000\TranferenciaBancaria\obj\Debug\net5.0\TranferenciaBancaria.pdb
+C:\Users\edu-f_000\TranferenciaBancaria\obj\Debug\net5.0\TranferenciaBancaria.genruntimeconfig.cache
